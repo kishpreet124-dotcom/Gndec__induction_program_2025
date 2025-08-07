@@ -61,4 +61,12 @@ An expert lecture was delivered by Dr. Priya Darshni Ma'am on the topic "Univers
 # 2:30 PM – 3:30 PM ( session by causmic club ):
 The day concluded with an engaging session by the Causmic Club, where we learned about the club’s activities, upcoming events, and how we can participate to enhance our technical and creative skills.
 
+# Day 5 
+# 9:00 AM – 10:30 AM ( Chemistry lecture):
+The day started with a Chemistry lecture by Prof. Mandeep Kaur. She introduced us to the syllabus and explained some basic concepts of chemistry. The session was informative and helped us understand what to expect in the coming semester.
 
+# 10:30 AM – 11:30 AM ( English lecture ):
+We then attended an English lecture by Prof. Nisha, who focused on professional English communication. She guided us on how to introduce ourselves confidently and shared useful tips for improving spoken English.
+
+# 11:30 AM – 12:30 PM ( Math lecture ):
+The final session of the day was a Mathematics lecture by Prof. Gagandeep Kaur. She briefed us on the course structure and began with introductory topics, making the concepts easy to understand.
