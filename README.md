@@ -72,10 +72,10 @@ We then attended an English lecture by Prof. Nisha, who focused on professional 
 The final session of the day was a Mathematics lecture by Prof. Gagandeep Kaur. She briefed us on the course structure and began with introductory topics, making the concepts easy to understand.
 
 # Day 6
-# 12:30 PM to 3:00 PM
+# 12:30 PM to 3:00 PM (Mr.Arvind Dhingra )
 A motivational and informative session was conducted by Mr. Arvind Dhingra, Director of STEP and Incharge of TAC. He spoke about the importance of entrepreneurship, innovation, and how students can explore opportunities through STEP and TAC. The session encouraged students to think creatively and make the most of the resources provided by the college.
 
-# 3:00 PM to 4:00 PM
+# 3:00 PM to 4:00 PM ( Lecture of Dr.lakhvir singh on CML)
 The next session was taken by Dr. Lakhvir Singh, Incharge of CML. He introduced the students to the SWAYAM and NPTEL portals, which offer free online courses by top institutions like IITs. He explained how these platforms are useful for enhancing knowledge, building skills, and earning certificates which can boost academic and professional growth.
 
 
