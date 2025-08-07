@@ -49,16 +49,16 @@ Dr. Jaswinder Singh will ignite curiosity with a lively session full of hands-on
 # 11:00 to 1:00 ( Expert Lecture by Dr.Priya Darshni mam on “Universal Human value “
 Dr. Priya Darshni delivered an inspiring session on how to lead a happy and meaningful life by cultivating positive thoughts. She emphasized the importance of understanding oneself and practicing self-awareness to manage emotions effectively. Through real-life examples, she explained how values like compassion, gratitude, and empathy help us build stronger relationships. The session motivated students to reflect on their inner self and align their actions with universal human values.
 # Day 4
-# 9:00 AM – 10:30 AM:
+# 9:00 AM – 10:30 AM ( P2P lecture ):
 The day began with a P2P (Peer-to-Peer) session conducted by our seniors. They gave us a clear and beginner-friendly introduction to C++ programming language. Their way of explaining was very easy to understand, and they shared practical tips that will help us build a strong foundation in coding.
 
-# 10:30 AM – 11:00 AM:
+# 10:30 AM – 11:00 AM ( BEEE lecture by Prof.Balwinder singh ):
 Next, we attended a short lecture on BEEE (Basic Electrical and Electronics Engineering) by Mr. Balwinder Singh. He gave us an overview of the BEEE syllabus, marking scheme, and shared useful insights about how to prepare for the subject effectively.
 
-# 12:30 PM – 2:30 PM:
+# 12:30 PM – 2:30 PM ( Expert lecture by Dr.Priya Darshni mam on " Universal Human value 2 ":
 An expert lecture was delivered by Dr. Priya Darshni Ma'am on the topic "Universal Human Values – 2". She emphasized the importance of self-awareness, human relationships, and how to manage our thoughts for a balanced and meaningful life.
 
-# 2:30 PM – 3:30 PM:
+# 2:30 PM – 3:30 PM ( session by causmic club ):
 The day concluded with an engaging session by the Causmic Club, where we learned about the club’s activities, upcoming events, and how we can participate to enhance our technical and creative skills.
 
 
